@@ -1,0 +1,14 @@
+C:\Users\RICHA\source\repos\Practical1\Practical1\obj\Debug\Practical1.csprojAssemblyReference.cache
+C:\Users\RICHA\source\repos\Practical1\Practical1\obj\Debug\Practical1.csproj.CoreCompileInputs.cache
+C:\Users\RICHA\source\repos\Practical1\Practical1\bin\Debug\Practical1.exe.config
+C:\Users\RICHA\source\repos\Practical1\Practical1\bin\Debug\Practical1.exe
+C:\Users\RICHA\source\repos\Practical1\Practical1\bin\Debug\Practical1.pdb
+C:\Users\RICHA\source\repos\Practical1\Practical1\obj\Debug\Practical1.exe
+C:\Users\RICHA\source\repos\Practical1\Practical1\obj\Debug\Practical1.pdb
+C:\dotNet\Practical1\Practical1\bin\Debug\Practical1.exe.config
+C:\dotNet\Practical1\Practical1\bin\Debug\Practical1.exe
+C:\dotNet\Practical1\Practical1\bin\Debug\Practical1.pdb
+C:\dotNet\Practical1\Practical1\obj\Debug\Practical1.csprojAssemblyReference.cache
+C:\dotNet\Practical1\Practical1\obj\Debug\Practical1.csproj.CoreCompileInputs.cache
+C:\dotNet\Practical1\Practical1\obj\Debug\Practical1.exe
+C:\dotNet\Practical1\Practical1\obj\Debug\Practical1.pdb
